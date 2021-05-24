@@ -1,0 +1,126 @@
+body{
+     margin:0;
+     padding:0;
+     background:linear-gradient(white, #D3D8E8) ;
+     font-family:Helvetica,Arial,sans-serif;
+ }
+
+.upper{
+    background-color:rgb(59,89,152);
+    height:12.2%;
+    width:100%;
+    font-family:tahoma;
+    border:1px solid darkblue;
+    color:white;
+
+}
+.bottom{
+
+}
+
+.upperfacebook{
+ font-size:75px;
+ position:absolute;
+ left:180px;
+ color:white;
+top:-105px;
+
+}
+
+.email{
+       position:absolute;
+ left:790px;
+ top:15px;
+ font-size:small;
+}
+.password{
+     position:absolute;
+ left:995px;
+ top:15px;
+ font-size:small;
+}
+.login{
+    background-color:#4267b2;
+         position:absolute;
+ left:1190px;
+ top:15px;
+  color:white;
+
+  border:1px solid darkblue;
+
+     top:41px;
+}
+.login:hover{
+    background-color:  #4773D1    ;
+}
+ .left{
+        width:55%;
+        position:absolute;
+        top:16%;
+        left:0%;
+ }
+
+ .right{
+        width:45%;
+        position:absolute;
+        top:13%;
+        left:58%;
+        color:black;
+ }
+ .img{
+     position:absolute;
+     left:150px;
+ }
+  .registration{
+      background-color: white;
+      border-radius:5px;
+      font-family: Arial, Helvetica, sans-serif;
+      border:1px solid rgb(189,199,216);
+      font-size: 17px;
+
+     outline-color:rgb(77,144,254);
+
+     margin-top:16px;
+     margin-left:2px;
+     height:45px;
+     width:185px;
+  }
+  .registrations{
+     background-color: white;
+      border-radius:5px;
+      font-family: Arial, Helvetica, sans-serif;
+      border:1px solid rgb(189,199,216);
+      font-size: 17px;
+
+     outline-color:rgb(77,144,254);
+
+     margin-top:8px;
+     margin-left:2px;
+     height:45px;
+     width:380px;
+  }
+    .select{
+        height:25px;
+    }
+    .text{
+        color:grey;
+          font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height:1.4;
+  }
+   .submit{
+       background-color:rgb(105,167,78) ;
+      border-radius:5px;
+      font-family:Freight Sans Bold, Helvetica,Arial,sans-serif ;
+      border:1px solid rgb(59,110,34);
+      font-size: 18px;
+      color:white;
+      padding:20px;
+      width:194px;
+      text-align: center;
+      margin-bottom:10px;
+      margin-top: 0px;
+      text-shadow:rgba(0,0,0,0.5) 0px 1 px 2px;
+      height:39px;
+
+   }
